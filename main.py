@@ -33,6 +33,7 @@ BUTTON_XPATHS = [
 ]
 
 # Local storage items: this is used as cookies to authenticate the user
+# This is an example. Please replace those values with yours
 LOCAL_STORAGE_ITEMS = {
     "k_build": "499",
     "dc5_server_salt": "4959e5d5abad7446",
